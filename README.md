@@ -137,3 +137,24 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 </p>
 
 </div>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/realsameek-collab">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=realsameek-collab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=25C3E6&icon_color=25C3E6&text_color=c9d1d9" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/realsameek-collab">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsameek-collab&layout=compact&hide_border=true&bg_color=0D1117&title_color=25C3E6&text_color=c9d1d9" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=realsameek-collab&hide_border=true&background=0D1117&ring=25C3E6&fire=25C3E6&currStreakLabel=25C3E6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realsameek-collab&bg_color=0D1117&color=25C3E6&line=25C3E6&point=ffffff&hide_border=true" alt="Activity Graph" />
+</p>
