@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/github/followers/realsameek-collab?label=FOLLOWERS&style=flat-square&color=25C3E6" /> 
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20THINGS-25C3E6?style=flat-square" /> 
   <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB-25C3E6?style=flat-square" /> 
+
+
+  
 ## 👨‍💻 About Me
 
 ```js
