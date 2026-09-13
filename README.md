@@ -80,7 +80,7 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 
 
 ---
-
+📂 Explore all **repositories** → [github.com/realsameek-collab?tab=repositories](https://github.com/realsameek-collab?tab=repositories)
 ---
 
 ---
