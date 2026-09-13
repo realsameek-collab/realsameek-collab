@@ -165,44 +165,29 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 
 ---
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2> 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/abdullah-ashfaq-430523436/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  <a href="https://abdullah-ashfaq.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/▲%20PORTFOLIO-12B8D8?style=for-the-badge&logoColor=white" alt="Portfolio"/> 
+  </a> 
+  <a href="https://github.com/realsameek-collab" target="_blank"> 
+    <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  </a> 
+  <a href="mailto:ameek263@gmail.com"> 
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
+  </a> 
+</p> 
 
-<p align="center">
+--- 
 
-<a href="https://www.linkedin.com/in/abdullah-ashfaq-430523436/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://portfolio-cinematic-hm49.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/▲%20PORTFOLIO-12B8D8?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://github.com/realsameek-collab" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:ameek263@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 <i>"The best way to predict the future is to ship it."</i>
-
-<br>
-
-<sub>
-Thanks for stopping by — if any project caught your eye, a ⭐ goes a long way 🚀
-</sub>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,18&section=footer" width="100%"/>
+<p align="center"> 
+  ### 💡 <i>"The best way to predict the future is to ship it."</i> <br> 
+  <sub> Thanks for stopping by — if any project caught your eye, a ⭐ goes a long way 🚀 </sub> 
+</p> 
+<br> 
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,18&section=footer" width="100%"/> 
 </p>
