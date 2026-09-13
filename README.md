@@ -81,50 +81,28 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 
 ---
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
-<p align="center">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
+`JavaScript` &nbsp;&bull;&nbsp; `TypeScript` &nbsp;&bull;&nbsp; `HTML5` &nbsp;&bull;&nbsp; `CSS3`
 
 ### Frontend
-<p align="center">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Vite" />
-  <img src="https://shields.io" alt="Tailwind CSS" />
-  <img src="https://shields.io" alt="Framer Motion" />
-</p>
+`React` &nbsp;&bull;&nbsp; `Vite` &nbsp;&bull;&nbsp; `TailwindCSS` &nbsp;&bull;&nbsp; `Framer Motion`
 
 ### Backend & AI
-<p align="center">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Express.js" />
-  <img src="https://shields.io" alt="LangGraph" />
-  <img src="https://shields.io" alt="Google Gemini" />
-</p>
+`Node.js` &nbsp;&bull;&nbsp; `Express.js` &nbsp;&bull;&nbsp; `LangGraph` &nbsp;&bull;&nbsp; `Google Gemini` &nbsp;&bull;&nbsp; `REST APIs`
 
 ### Databases & Infrastructure
-<p align="center">
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Firebase" />
-  <img src="https://shields.io" alt="Redis" />
-  <img src="https://shields.io" alt="Docker" />
-</p>
+`MongoDB` &nbsp;&bull;&nbsp; `Firebase` &nbsp;&bull;&nbsp; `Redis` &nbsp;&bull;&nbsp; `Qdrant` &nbsp;&bull;&nbsp; `Docker`
+
+### AI / RAG
+`AI Agents` &nbsp;&bull;&nbsp; `RAG` &nbsp;&bull;&nbsp; `Vector Search` &nbsp;&bull;&nbsp; `PDF Processing`
 
 ### Tools & Platforms
-<p align="center">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Postman" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Vercel" />
-</p>
+`Git` &nbsp;&bull;&nbsp; `GitHub` &nbsp;&bull;&nbsp; `Postman` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&nbsp; `Vercel` &nbsp;&bull;&nbsp; `npm`
 
 </div>
-
