@@ -14,3 +14,14 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20THINGS-25C3E6?style=flat-square" /> 
   <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB-25C3E6?style=flat-square" /> 
 </p>
+const abdullah = {
+  name:        "Abdullah Ashfaq",
+  role:        "Full-Stack Developer & AI Enthusiast",
+  location:    "Lahore, Pakistan",
+  studyingAt:  "FAST NUCES",
+  currently:   ["AmeekAI", "AI agents", "Full-stack web development"],
+  stack:       ["JavaScript", "React", "Node.js", "Express", "MongoDB", "Firebase"],
+  shipped:     "AmeekAI — an AI-powered multi-agent platform",
+  philosophy:  "Build → learn → improve → ship",
+  contact:     "https://www.linkedin.com/in/abdullah-ashfaq-430523436/",
+};
