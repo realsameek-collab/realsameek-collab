@@ -73,3 +73,58 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 * 🚀 Built to make coding workflows faster and smarter
 
 `JavaScript` `Node.js` `VS Code` `AI` `LLMs` `Agentic AI`
+
+
+
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<p align="center">
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Vite" />
+  <img src="https://shields.io" alt="Tailwind CSS" />
+  <img src="https://shields.io" alt="Framer Motion" />
+</p>
+
+### Backend & AI
+<p align="center">
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="Express.js" />
+  <img src="https://shields.io" alt="LangGraph" />
+  <img src="https://shields.io" alt="Google Gemini" />
+</p>
+
+### Databases & Infrastructure
+<p align="center">
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="Firebase" />
+  <img src="https://shields.io" alt="Redis" />
+  <img src="https://shields.io" alt="Docker" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="Postman" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Vercel" />
+</p>
+
+</div>
+
