@@ -83,26 +83,56 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 
 ---
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-`JavaScript` &nbsp;&bull;&nbsp; `TypeScript` &nbsp;&bull;&nbsp; `HTML5` &nbsp;&bull;&nbsp; `CSS3`
+### 💻 Languages
 
-### Frontend
-`React` &nbsp;&bull;&nbsp; `Vite` &nbsp;&bull;&nbsp; `TailwindCSS` &nbsp;&bull;&nbsp; `Framer Motion`
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-### Backend & AI
-`Node.js` &nbsp;&bull;&nbsp; `Express.js` &nbsp;&bull;&nbsp; `LangGraph` &nbsp;&bull;&nbsp; `Google Gemini` &nbsp;&bull;&nbsp; `REST APIs`
+### 🎨 Frontend
 
-### Databases & Infrastructure
-`MongoDB` &nbsp;&bull;&nbsp; `Firebase` &nbsp;&bull;&nbsp; `Redis` &nbsp;&bull;&nbsp; `Qdrant` &nbsp;&bull;&nbsp; `Docker`
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-EF008C?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
 
-### AI / RAG
-`AI Agents` &nbsp;&bull;&nbsp; `RAG` &nbsp;&bull;&nbsp; `Vector Search` &nbsp;&bull;&nbsp; `PDF Processing`
+### ⚙️ Backend & AI
 
-### Tools & Platforms
-`Git` &nbsp;&bull;&nbsp; `GitHub` &nbsp;&bull;&nbsp; `Postman` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&nbsp; `Vercel` &nbsp;&bull;&nbsp; `npm`
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 </div>
