@@ -19,16 +19,14 @@
 ## 👨‍💻 About Me
 
 ```js
-const abdullah = {
-  name:        "Abdullah Ashfaq",
-  role:        "Full-Stack Developer & AI Enthusiast",
-  location:    "Lahore, Pakistan",
-  studyingAt:  "FAST NUCES",
-  currently:   ["AmeekAI", "AI agents", "Full-stack web development"],
-  stack:       ["JavaScript", "React", "Node.js", "Express", "MongoDB", "Firebase"],
-  shipped:     "AmeekAI — an AI-powered multi-agent platform",
-  philosophy:  "Build → learn → improve → ship",
-  contact:     "https://linkedin.com",
+const rohith = {
+  name:       "Abdullah",
+  role:       "CS Undergrad & Full-Stack Developer",
+  currently:  ["Multi-agent-platform","Vs-code-agent","JavaScript Framework"],
+  stack:      ["TypeScript", "Python", "Next.js", "FastAPI", "LangGraph", "Three.js"],
+  shipped:    "4 projects in the last 1 months",
+  philosophy: "Ship → learn → ship better",
+  contact:    "https://www.linkedin.com/in/abdullah-ashfaq-430523436/",
 };
 ```
 
