@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```js
-const rohith = {
+const Abdullah = {
   name:       "Abdullah",
   role:       "CS Undergrad & Full-Stack Developer",
   currently:  ["Multi-agent-platform","Vs-code-agent","JavaScript Framework"],
