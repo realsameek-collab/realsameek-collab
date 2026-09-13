@@ -29,4 +29,12 @@ const Abdullah = {
   contact:    "https://www.linkedin.com/in/abdullah-ashfaq-430523436/",
 };
 ```
+I build things that sit at the intersection of **AI, Web, and Full-Stack Development**. Whether it's a multi-agent AI platform coordinating intelligent workspaces, a scalable backend architecture, or a polished user experience built from scratch — I'm happiest when an idea ships.
+
+* 🔭 Currently building **AmeekAI**, an AI-powered multi-agent workspace platform
+* 🤖 Going deep on **Agentic AI, LLMs, RAG, and multi-agent architectures**
+* 💻 Full-stack developer — **React → Node.js → production**
+* 💬 Ask me about **full-stack development, AI applications, React, or AmeekAI**
+* 📫 Reach me at [LinkedIn](https://linkedin.com) or drop a star ⭐ on a repo
+* ⚡ Fun fact: I like building the idea first and figuring out how to make it better along the way.
 
